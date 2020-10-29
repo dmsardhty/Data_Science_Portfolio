@@ -5,7 +5,7 @@ Repository of several completed Data Science projects during self learning perio
 ## [Project 1 : McDonald's Nutritional Facts Analysis and Menu Recommendation](https://www.kaggle.com/mcdonalds/nutrition-facts)
 
 For this project, I obtained the dataset from [Kaggle](https://www.kaggle.com/mcdonalds/nutrition-facts) and begin to analyzed the defined business problem. The results that i can bring from this project is listed below : 
-      * Determined the calories average of 9 McDonald's menu categories.
+      1 Determined the calories average of 9 McDonald's menu categories.
       * Discovered the spesific calories average of Beverages, Coffee & Tea, and Smoothies & Shake excluded from McDonald's foods menu.
       * Compared the nutritional value qualities of McDonald's grilled chicken vs crispy chicken menu.
       * Identified McDonald's menu nutrition which use whole eggs and white eggs.
