@@ -17,4 +17,4 @@ _Tools: scikit-learn, Numpy, Pandas, Matplotlib, Seaborn_
 _Method: Exploratory Data Analysis and K-Nearest-Neighboor_
 
 
-## [2. Post Nepal Earthquake : Damage Prediction of Destructed Building and Prevention Suggests](https://www.kaggle.com/mcdonalds/nutrition-facts)
+## [2. Nepal Earthquake : Damage Prediction of Destructed Building and Prevention Suggests](https://www.kaggle.com/mcdonalds/nutrition-facts)
