@@ -2,7 +2,7 @@ Repository of several completed Data Science projects during self learning perio
 
 # Contents
 
-## [Project 1 : McDonald's Nutritional Facts Analysis and Menu Recommendation](https://www.kaggle.com/mcdonalds/nutrition-facts)
+## [1. McDonald's Nutritional Facts Analysis and Menu Recommendation](https://www.kaggle.com/mcdonalds/nutrition-facts)
 
 For this project, I obtained the dataset from [Kaggle](https://www.kaggle.com/mcdonalds/nutrition-facts) and begin to analyzed the defined business problem. The results that i can bring from this project is listed below : 
 
@@ -13,5 +13,5 @@ For this project, I obtained the dataset from [Kaggle](https://www.kaggle.com/mc
 * Analyzed the minimum order amount of selected McDonald's menu based on its nutritional value by approaching the one day nutritional requirements.
 * Using KNN to classify the menu recommendation into 5 classes, while choosing the best value for K using the elbow method.
       
-_Tools      : scikit-learn,Numpy, Pandas, Matplotlib, Seaborn_                                                                                                                     
-_Method     : Exploratory Data Analysis and K-Nearest-Neighboor_
+_Tools: scikit-learn, Numpy, Pandas, Matplotlib, Seaborn_                                                                                                                     
+_Method: Exploratory Data Analysis and K-Nearest-Neighboor_
