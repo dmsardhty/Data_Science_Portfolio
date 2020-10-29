@@ -4,5 +4,4 @@ Repository of several completed Data Science projects during self learning perio
 
 - ### [Project 1 : McDonald's Nutritional Facts Analysis and Menu Recommendation]
       - asdasdasd
-
-	_Tools: scikit-learn, Pandas, Seaborn, Matplotlib, Seaborn 
+_Tools: scikit-learn, Pandas, Seaborn, Matplotlib, Seaborn 
