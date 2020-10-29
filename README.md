@@ -1,2 +1,2 @@
 # Data Science Portfolio
-Some of completed Data Science projects during self learning time and Data Science bootcamp challenges.
+Repository of several completed Data Science projects during self learning period and Fresh Graduate Academy - Data Science bootcamp challenges held by Ministry of Communication and Informatics.
