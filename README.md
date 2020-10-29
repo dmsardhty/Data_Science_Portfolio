@@ -13,4 +13,5 @@ For this project, I obtained the dataset from [Kaggle](https://www.kaggle.com/mc
 * Analyzed the minimum order amount of selected McDonald's menu based on its nutritional value by approaching the one day nutritional requirements.
 * Using KNN to classify the menu recommendation into 5 classes, while choosing the best value for K using the elbow method.
       
-_Tools: scikit-learn,Numpy, Pandas, Matplotlib, Seaborn_                                                                                                                     _Method: Exploratory Data Analysis and K-Nearest-Neighboor_
+_Tools: scikit-learn,Numpy, Pandas, Matplotlib, Seaborn_                                                                                                                     
+_Method: Exploratory Data Analysis and K-Nearest-Neighboor_
