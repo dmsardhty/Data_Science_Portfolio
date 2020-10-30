@@ -1,4 +1,4 @@
-# Contents
+**# Contents**
 
 ## **[1. McDonald's Nutritional Facts Analysis and Menu Recommendation](https://www.kaggle.com/mcdonalds/nutrition-facts)**
 
