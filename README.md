@@ -19,3 +19,4 @@ _Method: Exploratory Data Analysis and K-Nearest-Neighboor_
 
 ## [2. Nepal Earthquake : Damage Prediction of Destructed Building & Prevention Suggests](https://www.kaggle.com/mcdonalds/nutrition-facts)
 
+This is my second project that i got when joining data science bootcamp. The dataset was retrived from [drivendata.org](https://www.drivendata.org/competitions/57/nepal-earthquake/). This project was a collaboration which consists of four people 
