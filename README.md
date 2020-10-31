@@ -13,8 +13,8 @@ For this project, I obtained the dataset from [Kaggle](https://www.kaggle.com/mc
 
 I majorly used an Exploratory Data Analysis (EDA) with some visualizations like Bar Chart, Pie Chart, and Correlation Map to obtain the results of defined problem whilst on the last point, I tried to make some improvement from this dataset by using clustering machine learning method which is recommender system in order to ease the output i desire.
       
-_Tools: scikit-learn, Numpy, Pandas, Matplotlib, Seaborn_                                                                                                                     
-_Method: Exploratory Data Analysis
+_Tools: Numpy, Pandas, Matplotlib, Seaborn_                                                                                                                     
+_Method: Exploratory Data Analysis, Recommender System_
 
 
 ## [2. Nepal Earthquake : Damage Prediction of Destructed Building & Prevention Suggests](https://www.kaggle.com/mcdonalds/nutrition-facts)
@@ -27,3 +27,6 @@ This is my second project that i got when joining data science bootcamp. The dat
 * Evaluated the model using RandomizedSearchCV to reach the best model. We use F1 Score (precision - recall) instead of accuracy score because of data imbalance will producing the lower prediction score. 
 
 The reason we choose Random Forest Classifier is the imbalance of the data and many outliers during EDA phase. Furthermore, We were able to get the model to predict the damage with 88,5% F1 Score after evaluating the model.
+
+_Tools: scikit-learn, Numpy, Pandas, Matplotlib, Seaborn_                                                                                                                     
+_Method: Exploratory Data Analysis, Random Forest Classifier, RandomizedSearchCV_
