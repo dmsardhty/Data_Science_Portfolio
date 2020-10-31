@@ -1,6 +1,6 @@
-**# Contents**
+# Contents
 
-## **[1. McDonald's Nutritional Facts Analysis and Menu Recommendation](https://www.kaggle.com/mcdonalds/nutrition-facts)**
+## [1. McDonald's Nutritional Facts Analysis and Menu Recommendation](https://www.kaggle.com/mcdonalds/nutrition-facts)
 
 For this project, I obtained the dataset from [Kaggle](https://www.kaggle.com/mcdonalds/nutrition-facts) and begin to analyzed the defined business problem. The overall work that i can bring from this project is listed below : 
 
@@ -9,14 +9,21 @@ For this project, I obtained the dataset from [Kaggle](https://www.kaggle.com/mc
 * Compared the nutritional value qualities of McDonald's grilled chicken vs crispy chicken menu.
 * Identified McDonald's menu nutrition which use whole eggs and white eggs.
 * Analyzed the minimum order amount of selected McDonald's menu based on its nutritional value by approaching the one day nutritional requirements.
-* Using KNN to classify the menu recommendation into 5 classes, while choosing the best value for K using the elbow method.
+* Using basic recommender system to suggests the suitable menu based on certain nutrition values.
 
-From point 1 to 5, I majorly used an Exploratory Data Analysis with some visualizations using Bar Chart, Pie Chart, and Correlation Map to obtain the final results whilst on the last point, I tried to make some improvement from this dataset by using Machine Learning method which is K-Nearest-Neighboor in order to ease the output i desire.
+I majorly used an Exploratory Data Analysis (EDA) with some visualizations like Bar Chart, Pie Chart, and Correlation Map to obtain the results of defined problem whilst on the last point, I tried to make some improvement from this dataset by using clustering machine learning method which is recommender system in order to ease the output i desire.
       
 _Tools: scikit-learn, Numpy, Pandas, Matplotlib, Seaborn_                                                                                                                     
-_Method: Exploratory Data Analysis and K-Nearest-Neighboor_
+_Method: Exploratory Data Analysis
 
 
 ## [2. Nepal Earthquake : Damage Prediction of Destructed Building & Prevention Suggests](https://www.kaggle.com/mcdonalds/nutrition-facts)
 
-This is my second project that i got when joining data science bootcamp. The dataset was retrived from [drivendata.org](https://www.drivendata.org/competitions/57/nepal-earthquake/). This project was a collaboration which consists of four people 
+This is my second project that i got when joining data science bootcamp. The dataset was retrived from [drivendata.org](https://www.drivendata.org/competitions/57/nepal-earthquake/). This project was ran in groups consists of four people to solve several objectives we defined from business problem. Overall work that we conduct in this project are:
+
+* Recommended the best material and specific building characteristic to resist further earthquake damage based on EDA results.
+* Splitted the data into 80% train and 20% test during model building. We prefer 80/20 rather than 70/30 to obtain h
+* Classified over 86.000 data of damaged building into 3 damage categories (Low, Average, and High) using Random Forest Classifier.
+* Evaluated the model using RandomizedSearchCV to reach the best model. We use F1 Score (precision - recall) instead of accuracy score because of data imbalance will producing the lower prediction score. 
+
+The reason we choose Random Forest Classifier is the imbalance of the data and many outliers during EDA phase. Furthermore, We were able to get the model to predict the damage with 88,5% F1 Score after evaluating the model.
