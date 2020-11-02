@@ -1,6 +1,6 @@
 # Contents
 
-## [1. McDonald's Nutritional Facts Analysis and Menu Recommendation](https://www.kaggle.com/mcdonalds/nutrition-facts)
+## [1. McDonald's Nutritional Facts Analysis and Menu Recommendation](https://github.com/dmsardhty/McDonalds-Nutrition-Facts)
 
 For this project, I obtained the dataset from [Kaggle](https://www.kaggle.com/mcdonalds/nutrition-facts) and begin to analyzed the defined business problem. The overall work that i can bring from this project is listed below : 
 
