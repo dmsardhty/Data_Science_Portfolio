@@ -24,9 +24,9 @@ This is my second project that i got when joining data science bootcamp. The dat
 * Recommended the best material and specific building characteristic to resist further earthquake damage based on EDA results.
 * Splitted the data into 80% train and 20% test during model building. We prefer 80/20 rather than 70/30 to obtain h
 * Classified over 86.000 data of damaged building into 3 damage categories (Low, Average, and High) using Random Forest Classifier.
-* Evaluated the model using RandomizedSearchCV to reach the best model. We use F1 Score (precision - recall) instead of accuracy score because of data imbalance will producing the lower prediction score. 
+* Tuned the model using RandomizedSearchCV to reach the best model. We use F1 Score instead of accuracy score because of data imbalance will producing the lower prediction score. 
 
-The reason we choose Random Forest Classifier is the imbalance of the data and many outliers during EDA phase. Furthermore, We were able to get the model to predict the damage with 88,5% F1 Score after evaluating the model.
+The reason we choose Random Forest Classifier is the imbalance of the data and many outliers during EDA phase. Furthermore, We were able to get the model to predict the damage with 88,5% F1 Score after execute the hyperparameter tuning using RandomizedSearchCV.
 
 _Tools: scikit-learn, Numpy, Pandas, Matplotlib, Seaborn_                                                                                                                     
 _Method: Exploratory Data Analysis, Random Forest Classifier, RandomizedSearchCV_
