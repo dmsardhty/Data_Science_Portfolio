@@ -28,5 +28,5 @@ This is my second project that i got when joining data science bootcamp. The dat
 
 The reason we choose Random Forest Classifier is the imbalance of the data and many outliers during EDA phase. Furthermore, We were able make a model to predict the damage with 88,5% F1 Score after execute the hyperparameter tuning to reduce model overfitting and enhance the low F1 score using RandomizedSearchCV.
 
-_Tools: scikit-learn, Numpy, Pandas, Matplotlib, Seaborn_                                                                                                                     
+_Tools: Scikit-learn, Numpy, Pandas, Matplotlib, Seaborn_                                                                                                                     
 _Method: Exploratory Data Analysis, Random Forest Classifier, RandomizedSearchCV_
