@@ -17,7 +17,7 @@ _Tools: Numpy, Pandas, Matplotlib, Seaborn_
 _Method: Exploratory Data Analysis, Recommender System_
 
 
-## [2. Nepal Earthquake : Damage Prediction of Destructed Building & Prevention Suggests](https://www.kaggle.com/mcdonalds/nutrition-facts)
+## [2. Nepal Earthquake : Damage Prediction of Destructed Building & Prevention Suggests](https://github.com/dmsardhty/Damage-Prediction)
 
 This is my second project that i got when joining data science bootcamp. The dataset was retrived from [drivendata.org](https://www.drivendata.org/competitions/57/nepal-earthquake/). This project was ran in groups consists of four people to gain a new insights based on defined business problem. Overall work that we conduct in this project are:
 
