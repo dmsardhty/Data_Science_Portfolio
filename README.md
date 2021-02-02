@@ -44,5 +44,5 @@ At November 2020, there was an online workshop held by Algoritma Data Science Sc
 
 Although the model used were only achieve the 70% accuracy which dont reach the business goals (>75% accuracy), the overall work still successfully increase the profit. There are several early diagnose that makes the model dont reach >75% for instance; Dirty or improper input data and Data gathering is not in real time yet. 
 
-_Tools: Scikit-learn, Numpy, Pandas, Matplotlib.pyplot, Seaborn_                                                                                                                     
-_Method: Decision Trees, Random Forest Classifier, Light GBM, EDA, Label Encoding, One-Hot Encoding
+_Tools: Scikit-learn, Numpy, Pandas, Matplotlib.pyplot, Seaborn_                                                                                                                 
+_Method: Decision Trees, Random Forest Classifier, Light GBM, EDA, Label Encoding, One-Hot Encoding_
