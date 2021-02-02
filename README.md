@@ -60,4 +60,4 @@ The use of Machine Learning can enable the decision makers on Human Resource Dep
 This project will be developed more with an extra visualization on several features so it will be updated soon.
 
 _Tools: category_encoders, imblearn, Scikit-learn, Numpy, Pandas, Matplotlib.pyplot, Seaborn_                                                                                                                 
-_Method: StratifiedKfold, SMOTEENN, Random Forest Classifier, Light GBM, ROC-AUC
+_Method: StratifiedKfold, SMOTEENN, Random Forest Classifier, Light GBM, ROC-AUC_
