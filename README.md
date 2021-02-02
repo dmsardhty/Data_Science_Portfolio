@@ -30,3 +30,19 @@ The reason we choose Random Forest Classifier is the imbalance of the data and m
 
 _Tools: Scikit-learn, Numpy, Pandas, Matplotlib, Seaborn_                                                                                                                     
 _Method: Exploratory Data Analysis, Random Forest Classifier, RandomizedSearchCV_
+
+
+## [3. Potential Customer Prediction for Increasing Product Sales](https://github.com/dmsardhty/Increasing-Product-Sales)
+
+At November 2020, there was an online workshop held by Algoritma Data Science School that explain the CRISP-DM approach for solving business problem. The workshop was mainly guide the participants on using R language to do this approach. Hence, I try to recreate this workshop project by using Python with a similar approach but I put an improvisation on the data preparation and modelling phase. The dataset were uploaded by the workshop presenter on the google drive so the participant could use it for training. In this recreate project, the results that i could generate are: 
+
+* Increased sales profit by 3200 (approximation = $200000) based on cost-benefit analysis according to applied machine learning models.
+* Performed a medium-complex data pre-processing consists of data cleansing, typo fixing, index changing, label encoding, and one-hot encoding.
+* Compared Decision Tree, Support Vector Machine, Random Forest Classifier, and Light GBM model performance.
+* Obtained the feature importance according to the used model.
+* Plotted some valuation distribution with or without outliers, and frequency heatmaps.
+
+Although the model used were only achieve the 70% accuracy which dont reach the business goals (>75% accuracy), the overall work still successfully increase the profit. There are several early diagnose that makes the model dont reach >75% for instance; Dirty or improper input data and Data gathering is not in real time yet. 
+
+_Tools: Scikit-learn, Numpy, Pandas, Matplotlib.pyplot, Seaborn_                                                                                                                     
+_Method: Decision Trees, Random Forest Classifier, Light GBM, EDA, Label Encoding, One-Hot Encoding
