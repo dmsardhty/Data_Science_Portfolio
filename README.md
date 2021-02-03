@@ -36,7 +36,7 @@ _Tools: Scikit-learn, Numpy, Pandas, Matplotlib, Seaborn_
 _Method: Exploratory Data Analysis, Random Forest Classifier, RandomizedSearchCV_
 
 
-## [3. Potential Customer for Increasing Product Sales](https://github.com/dmsardhty/Increasing-Product-Sales)
+## [3. Potential Customers for Increasing Product Sales](https://github.com/dmsardhty/Increasing-Product-Sales)
 
 At November 2020, there was an online workshop held by Algoritma Data Science School that explain the CRISP-DM approach for solving business problem. The workshop was mainly guide the participants on using R language to do this approach. Hence, I try to recreate this workshop project by using Python with a similar approach but I put an improvisation on the data preparation and modelling phase. The dataset were uploaded by the workshop presenter on the google drive so the participant could use it for training. In this recreate project, the results that i could generate are: 
 
@@ -51,7 +51,7 @@ Although the model used were only achieve the 70% accuracy which dont reach the 
 _Tools: Scikit-learn, Numpy, Pandas, Matplotlib.pyplot, Seaborn_                                                                                                                 
 _Method: Decision Trees, Random Forest Classifier, Light GBM, EDA, Label Encoding, One-Hot Encoding_
 
-## [4. People Analytic : Best Performance Employee in One Year Ahead](https://github.com/dmsardhty/People-Analytic/blob/master/BRI%20People%20Analytic.ipynb)
+## [4. People Analytics : Best Performance Employee in One Year Ahead](https://github.com/dmsardhty/People-Analytic/blob/master/BRI%20People%20Analytic.ipynb)
 
 The use of Machine Learning can enable the decision makers on Human Resource Department to predict the employee performances for one year ahead by using the KPI historical data owned by the company. Hence, we need a various model of machine learning in order to implement the employee performance prediction accurately.
 
