@@ -1,6 +1,6 @@
 A repository of the projects I worked on or currently working on. It is updated regularly. The projects are written in  Python (Jupyter Notebook). Click on the projects to see full analysis and code.
 
-Please contact me on [Linkedin](https://www.linkedin.com/in/dmsardhty/) if you are looking to hire a data scientist.
+Please contact me on [Linkedin](https://www.linkedin.com/in/dmsardhty/) if you are looking to hire an entry level data scientist or data analyst.
 
 # Contents
 
